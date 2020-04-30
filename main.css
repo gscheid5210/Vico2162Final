@@ -59,6 +59,11 @@ p {
 }
 
 
+img {
+    width: 50%;
+    margin: auto;
+}
+
 body {
     background-image: url('img_0141.jpg');
 }
